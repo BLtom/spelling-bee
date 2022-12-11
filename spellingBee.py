@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 12 15:16:13 2021
 
-@author: thoma
+@author: BLTom
 """
 
 from collections import Counter
